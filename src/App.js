@@ -1,7 +1,8 @@
 import React, { useState } from "react";
 import { Button, Modal } from "react-bootstrap";
+import TableComponent from "./Components/TableComponent";
+
 import "./App.css";
-import TableComponent from "./TableComponent";
 
 function App() {
   const [show, setShow] = useState(false);

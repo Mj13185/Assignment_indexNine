@@ -1,5 +1,1 @@
-export const data = (data) => {
-  return {
-    payload: data,
-  };
-};
+//No Actions set yet
